@@ -1,0 +1,54 @@
+[
+  {
+    "Team": "Južni Sudan",
+    "ISOCode": "SSD",
+    "FIBARanking": 34,
+    "grupa": "C",
+    "poeni": 10,
+    "kosevi": 637,
+    "kos_razlika": 191,
+    "grupni_rank": 1,
+    "disk": false,
+    "forma": 0.13905277553110465,
+    "ukupniRang": 1
+  },
+  {
+    "Team": "Francuska",
+    "ISOCode": "FRA",
+    "FIBARanking": 9,
+    "grupa": "B",
+    "poeni": 10,
+    "kosevi": 544,
+    "kos_razlika": 5,
+    "grupni_rank": 1,
+    "disk": false,
+    "forma": 0.006973942129194435,
+    "ukupniRang": 2
+  },
+  {
+    "Team": "Grčka",
+    "ISOCode": "GRE",
+    "FIBARanking": 14,
+    "grupa": "A",
+    "poeni": 9,
+    "kosevi": 539,
+    "kos_razlika": 0,
+    "grupni_rank": 1,
+    "disk": false,
+    "forma": -0.015300435873068006,
+    "ukupniRang": 3
+  },
+  {
+    "Team": "Kanada",
+    "ISOCode": "CAN",
+    "FIBARanking": 7,
+    "grupa": "A",
+    "poeni": 8,
+    "kosevi": 510,
+    "kos_razlika": 20,
+    "grupni_rank": 2,
+    "disk": false,
+    "forma": 0.016426038572075738,
+    "ukupniRang": 4
+  }
+]

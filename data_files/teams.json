@@ -1,0 +1,134 @@
+[
+  {
+    "Team": "Kanada",
+    "ISOCode": "CAN",
+    "FIBARanking": 7,
+    "grupa": "A",
+    "poeni": null,
+    "kosevi": null,
+    "kos_razlika": null,
+    "grupni_rank": null,
+    "disk": false
+  },
+  {
+    "Team": "Australija",
+    "ISOCode": "AUS",
+    "FIBARanking": 5,
+    "grupa": "A",
+    "poeni": null,
+    "kosevi": null,
+    "kos_razlika": null,
+    "grupni_rank": null,
+    "disk": false
+  },
+  {
+    "Team": "Grčka",
+    "ISOCode": "GRE",
+    "FIBARanking": 14,
+    "grupa": "A",
+    "poeni": null,
+    "kosevi": null,
+    "kos_razlika": null,
+    "grupni_rank": null,
+    "disk": false
+  },
+  {
+    "Team": "Španija",
+    "ISOCode": "ESP",
+    "FIBARanking": 2,
+    "grupa": "A",
+    "poeni": null,
+    "kosevi": null,
+    "kos_razlika": null,
+    "grupni_rank": null,
+    "disk": false
+  },
+  {
+    "Team": "Nemačka",
+    "ISOCode": "GER",
+    "FIBARanking": 3,
+    "grupa": "B",
+    "poeni": null,
+    "kosevi": null,
+    "kos_razlika": null,
+    "grupni_rank": null,
+    "disk": false
+  },
+  {
+    "Team": "Francuska",
+    "ISOCode": "FRA",
+    "FIBARanking": 9,
+    "grupa": "B",
+    "poeni": null,
+    "kosevi": null,
+    "kos_razlika": null,
+    "grupni_rank": null,
+    "disk": false
+  },
+  {
+    "Team": "Brazil",
+    "ISOCode": "BRA",
+    "FIBARanking": 12,
+    "grupa": "B",
+    "poeni": null,
+    "kosevi": null,
+    "kos_razlika": null,
+    "grupni_rank": null,
+    "disk": false
+  },
+  {
+    "Team": "Japan",
+    "ISOCode": "JPN",
+    "FIBARanking": 26,
+    "grupa": "B",
+    "poeni": null,
+    "kosevi": null,
+    "kos_razlika": null,
+    "grupni_rank": null,
+    "disk": false
+  },
+  {
+    "Team": "Sjedinjene Države",
+    "ISOCode": "USA",
+    "FIBARanking": 1,
+    "grupa": "C",
+    "poeni": null,
+    "kosevi": null,
+    "kos_razlika": null,
+    "grupni_rank": null,
+    "disk": false
+  },
+  {
+    "Team": "Srbija",
+    "ISOCode": "SRB",
+    "FIBARanking": 4,
+    "grupa": "C",
+    "poeni": null,
+    "kosevi": null,
+    "kos_razlika": null,
+    "grupni_rank": null,
+    "disk": false
+  },
+  {
+    "Team": "Južni Sudan",
+    "ISOCode": "SSD",
+    "FIBARanking": 34,
+    "grupa": "C",
+    "poeni": null,
+    "kosevi": null,
+    "kos_razlika": null,
+    "grupni_rank": null,
+    "disk": false
+  },
+  {
+    "Team": "Puerto Riko",
+    "ISOCode": "PRI",
+    "FIBARanking": 16,
+    "grupa": "C",
+    "poeni": null,
+    "kosevi": null,
+    "kos_razlika": null,
+    "grupni_rank": null,
+    "disk": false
+  }
+]
